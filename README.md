@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,dsa,aws,Postgres, fastapi, github," /><br>
-    <img src="https://skillicons.dev/icons?i=django,html,css,vscode, pycharm, git" />
+    <img src="https://skillicons.dev/icons?i=python,aws,postgres,fastapi,django,github," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,atom,pycharm" />
 </div>
 
 <br/>
